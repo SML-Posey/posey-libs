@@ -152,9 +152,9 @@
       )
     )
   )
-  (model "/Users/awertz/Google/Personal/Grad School/Research/Projects/StickerNet/Sticky/posey-hardware/posey-libs/ics/BMD-350/BMD-350-A-R.step"
-    (offset (xyz 0 0 0))
+  (model "/Users/awertz/Google/Personal/Grad School/Research/Projects/StickerNet/Sticky/posey-hardware/posey-libs/ics/BMD-350/BMD-350.STEP"
+    (offset (xyz -3.2 -4.3 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
+    (rotate (xyz 0 0 0))
   )
 )

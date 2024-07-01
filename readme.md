@@ -2,6 +2,10 @@
 
 This library holds footprints, schematics, models, and datasheets for components shared across Posey hardware devices.
 
+## Author
+
+[Anthony Wertz](https://me.anthonywertz.com)
+
 ## License
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
